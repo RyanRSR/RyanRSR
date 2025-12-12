@@ -1,7 +1,66 @@
-## Hi there 👋
+## 👋 Olá! Meu nome é **Ryan dos Santos da Rocha**
 
-<div>
-  ![Ryan's GitHub stats](https://github-readme-stats-ten-tau-40.vercel.app/api?username=RyanRSR&show_icons=true&theme=tokyonight)
+Sou estudante de **Engenharia da Computação** e desenvolvedor focado em **Front-end**, sempre buscando evoluir meus projetos e habilidades.  
+Atualmente estudo **React**, **JavaScript**, **CSS**, **HTML** e estou desenvolvendo projetos próprios como forma de aprendizado e portfólio.
+
+---
+
+## 🚀 Tecnologias que utilizo
+
+**Linguagens**
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+
+**Ferramentas / Frameworks**
+  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div style="display: flex; gap: 20px; justify-content: center; align-items: center; flex-wrap: wrap; margin-top: 20px;">
+
+  <img 
+       src="https://github-readme-stats-ten-tau-40.vercel.app/api?username=RyanRSR&show_icons=true&theme=tokyonight"
+       height="180"
+       width="400"
+  />
+
+  <img 
+       src="https://github-readme-stats-ten-tau-40.vercel.app/api/top-langs/?username=RyanRSR&layout=compact&theme=tokyonight"
+       height="180"
+       width="400"
+  />
 
 </div>
--->
+
+---
+
+## 📁 Meus projetos
+
+🔹 **Agenda Integrada**  
+Uma agenda totalmente responsiva com calendário dinâmico, localStorage, temas e muito mais.  
+🔗 https://agenda-integrada.vercel.app/
+
+🔹 **Login Page**  
+Página de login com UI moderna.  
+🔗 https://ryanrsr.github.io/Login-page/
+
+---
+
+## 📬 Contato
+
+📧 Email: **ryansic157@gmail.com**  
+🔗 GitHub: https://github.com/RyanRSR  
+🔗 LinkedIn: www.linkedin.com/in/ryan-santos-rocha
+
+---
+
+⭐ *Obrigado por visitar meu perfil! Sempre aberto para novas oportunidades e colaborações.*
