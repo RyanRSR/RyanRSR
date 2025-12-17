@@ -1,8 +1,11 @@
-## 👋 Olá! Meu nome é **Ryan dos Santos da Rocha**
+## 👋 Olá! Eu sou o Ryan 👨‍💻
 
-Sou estudante de **Engenharia da Computação** e **Desenvolvedor Full-Stack em formação**, sempre buscando evoluir meus projetos e habilidades.  
-Atualmente estudo **JavaScript**, **React** (nível iniciante) e estou iniciando meus estudos em **Node.js** e **Banco de Dados**, desenvolvendo projetos próprios como forma de aprendizado e portfólio.
+🎓 Estudante de Engenharia da Computação  
+💻 Desenvolvedor Full-Stack em formação  
+🚀 Focado em Web Development e projetos práticos
 
+Sou estudante de **Engenharia da Computação** e **Desenvolvedor Full-Stack em formação**, focado em evoluir constantemente por meio de projetos práticos.
+Atualmente estudo **JavaScript**, **React (iniciante)** e estou iniciando meus estudos em **Node.js** e **Banco de Dados**, utilizando meus projetos como portfólio e aprendizado contínuo.
 
 ---
 
