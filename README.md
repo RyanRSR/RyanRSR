@@ -55,11 +55,13 @@ Atualmente estudo **JavaScript**, **React (iniciante)** e estou iniciando meus e
 ## 📁 Meus projetos
 
 🔹 **Agenda Integrada**  
-Uma agenda totalmente responsiva com calendário dinâmico, localStorage, temas e muito mais.  
+📅 Agenda responsiva com calendário dinâmico, temas, persistência de dados via localStorage e foco em UX.  
+🛠️ Tecnologias: JavaScript, HTML, CSS  
 🔗 https://agenda-integrada.vercel.app/
 
 🔹 **Login Page**  
-Página de login com UI moderna.  
+🔐 Interface de login com UI moderna e design responsivo.  
+🛠️ Tecnologias: HTML, CSS  
 🔗 https://ryanrsr.github.io/Login-page/
 
 ---
